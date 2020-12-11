@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en el <GifExpertApp /> debe de mostrar una lista de categorias 1`] = `
+<Fragment>
+  <h2>
+    My GIPHY api example with React 🥰 
+  </h2>
+  <hr />
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <ol>
+    <GifGrid
+      category="One Punch"
+      key="One Punch"
+    />
+    <GifGrid
+      category="Goku"
+      key="Goku"
+    />
+  </ol>
+</Fragment>
+`;
+
+exports[`pruebas en el <GifExpertApp /> debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <h2>
+    My GIPHY api example with React 🥰 
+  </h2>
+  <hr />
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <ol />
+</Fragment>
+`;

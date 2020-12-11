@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el gifgriditem debe mostrar el componenete correctamente 1`] = `
+<div
+  className="card animate__fadeIn"
+>
+  <img
+    alt="Goku"
+    src="https://ghiphy.com"
+  />
+  <p>
+     
+    Goku
+     
+  </p>
+</div>
+`;
